@@ -61,25 +61,25 @@ I am currently working as a Data Scientist, leveraging my skills to turn data in
 
 ## 🛠️ Projects
 
-- **Comparative Analysis of English to Khmer Translation by ChatGPT and Google Translate**
+- **[Comparative Analysis of English to Khmer Translation by ChatGPT and Google Translate](https://github.com/Meysenghour/Comparative-Analysis-of-English-to-Khmer-Translation-by-ChatGPT-and-Google-Translate)**
   - Conducted a comprehensive comparison of translation accuracy, fluency, contextual understanding, and user satisfaction.
   - Evaluated translations of various text types, from everyday phrases to specialized content.
   - Identified strengths and weaknesses of ChatGPT and Google Translate.
 
-- **Power-AI of Daily News Summarization on Media News**
+- **[Power-AI of Daily News Summarization on Media News](https://github.com/Meysenghour/Power-AI-of-Daily-News-Summarization-on-Media-News)**
   - Developed AI-powered summaries highlighting important news and trending topics.
   - Covered categories such as business, technology, and lifestyle.
   - Ensured accuracy and data privacy in accordance with Kiripost's Privacy Notice.
 
-- **Chatbot Prompt for Retrieving Data from a Database Query in the Star App**
+- **[Chatbot Prompt for Retrieving Data from a Database Query in the Star App](https://github.com/Meysenghour/Chatbot-Prompt-for-Retrieving-Data-from-a-Database-Query-in-the-Star-App)**
   - Integrated a ChatGPT-based prompt system within the STARS app for seamless data retrieval.
   - Enhanced user experience and operational efficiency by enabling natural language prompts.
 
-- **Personalize Recommendation System on Digital Media**
+- **[Personalize Recommendation System on Digital Media](https://github.com/Meysenghour/Personalize-Recommendation-System-on-Media)**
   - Analyzed user data attributes to generate relevant and personalized recommendations.
   - Utilized Collaborative Filtering techniques to improve recommendation accuracy.
 
-- **Neural Language Processing on Digital Media Related News**
+- **[Neural Language Processing on Digital Media Related News](https://github.com/Meysenghour/Neural-Language-Processing-on-Digital-Media-Related-News)**
   - Enhanced user experience and engagement using text similarity methods like TF-IDF, Bag-of-Words, Cosine Similarity, and Euclidean Distance.
   - Achieved higher accuracy compared to Word2Vec.
 
@@ -87,17 +87,17 @@ I am currently working as a Data Scientist, leveraging my skills to turn data in
   - Analyzed a sales car dataset from 2005 to 2023 with various parameters.
   - Provided insights into sales performance, profitability, and revenue trends.
 
-- **Human Sleep Posture Classification Based on Deep Learning Using RGB and Thermal Cameras**
+- **[Human Sleep Posture Classification Based on Deep Learning Using RGB and Thermal Cameras](https://github.com/Meysenghour/Human-Sleep-Posture-Classification-Based-on-Deep-Learning-Using-RGB-and-Thermal-Cameras)**
   - Utilized deep learning libraries for healthcare research.
   - Implemented an image classification pipeline and evaluated performance metrics.
   - Generated predictions and evaluated accuracy, sensitivity, and specificity.
 
-- **Integrating IMU-based Algorithms and Machine Learning for Advanced Gait Analysis and Event Detection in Clinical Populations**
+- **[Integrating IMU-based Algorithms and Machine Learning for Advanced Gait Analysis and Event Detection in Clinical Populations](https://github.com/Meysenghour/Integrating-IMU-based-Algorithms-and-Machine-Learning-for-Advanced-Gait-Analysis-and-Event-Detection)**
   - Applied Support Vector Machines (SVM) to classify walking activities.
   - Trained and optimized SVM models with feature selection and parameter tuning.
   - Evaluated classification accuracy, sensitivity, and specificity.
 
-- **Development of a Balance Monitoring System Using Pressure Mapping Mat for Smart Home Care Applications**
+- **[Development of a Balance Monitoring System Using Pressure Mapping Mat for Smart Home Care Applications](https://github.com/Meysenghour/Balance-Monitoring-System-using-Pressure-Mapping-Mat-for-Smart-Home-Care-Applications)**
   - Collected data with the snowforce3 application and analyzed it using MATLAB.
   - Presented center-of-force measurement options using median or K-means clustering algorithm.
   - Displayed experimental results with a color map.
