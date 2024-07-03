@@ -34,9 +34,9 @@ I am currently working as a Data Scientist, leveraging my skills to turn data in
 
 ## 📫 Contact
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Email**: [meysenghour2888@gmail.com](meysenghour2888@gmail.com)
+- **LinkedIn**: [senghourmey](www.linkedin.com/in/senghourmey)
+- **GitHub**: [meysenghour](https://github.com/Meysenghour)
 
 Feel free to connect with me or explore my projects. Let's make data-driven decisions and innovate together!
 
