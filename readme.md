@@ -35,8 +35,8 @@ I am currently working as a Data Scientist, leveraging my skills to turn data in
 ## 📫 Contact
 
 - **Email**: [meysenghour2888@gmail.com](meysenghour2888@gmail.com)
-- **LinkedIn**: [senghourmey](www.linkedin.com/in/senghourmey)
-- **GitHub**: [meysenghour](https://github.com/Meysenghour)
+- **LinkedIn**: [www.linkedin.com/in/senghourmey](www.linkedin.com/in/senghourmey)
+- **GitHub**: [https://github.com/Meysenghour](https://github.com/Meysenghour)
 
 Feel free to connect with me or explore my projects. Let's make data-driven decisions and innovate together!
 
