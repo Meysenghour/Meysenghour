@@ -12,10 +12,10 @@ I am currently working as a Data Scientist, leveraging my skills to turn data in
 
 ## 🌟 Skills
 
-- **Programming Languages**: Python, SQL, C/C++, Matlab, HTML, CSS
+- **Programming Languages**: Python, SQL, C/C++, Matlab, HTML, CSS, Java, JavaScript, React JS, 
 - **Data Visualization Tools**: Looker Studio, Google Spreadsheets, Power BI
 - **Database Management**: Google BigQuery, MySQL, PostgreSQL
-- **Machine Learning**: Data manipulation, model building, and performance analysis
+- **Machine Learning**: Data manipulation, model building, and performance analysis, Image Classification, Text Classification, Sensor signal.
 - **Languages**: English, Khmer
 
 ## 🎓 Education
